@@ -1,0 +1,14 @@
+body {
+  background-color: #fff;
+  color: #000;
+  font-size: 34px;
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+}
+
+button {
+  width: 300px;
+  background-color: tomato;
+  border-radius: 6px;
+}/*# sourceMappingURL=style.css.map */
